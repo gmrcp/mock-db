@@ -3,5 +3,8 @@
     { "id": "corner-shop", "name": "Good Old Corner Shop", "price": {"currency": "EUR", "amount": 3900} },
     { "id": "hotel-fivestar", "name": "Amazing Hotel *****", "price": {"currency": "USD", "amount": 6799} },
     { "id": "mall-shop", "name": "Colombo Mall Stand", "price": {"currency": "EUR", "amount": 2900} }
-  ]
+  ],
+  "profile": {
+    "name": "grmcp"
+  }
 }
