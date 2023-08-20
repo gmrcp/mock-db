@@ -5,7 +5,7 @@
       "name": "Good Old Corner Shop",
       "price": {
         "currency": "EUR",
-        "amount": 3900
+        "amount": 390
       }
     },
     {
@@ -13,7 +13,7 @@
       "name": "Amazing Hotel *****",
       "price": {
         "currency": "USD",
-        "amount": 6799
+        "amount": 679
       }
     },
     {
@@ -21,7 +21,7 @@
       "name": "Colombo Mall Stand",
       "price": {
         "currency": "EUR",
-        "amount": 2900
+        "amount": 290
       }
     }
   ],
